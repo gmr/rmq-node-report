@@ -38,7 +38,11 @@ Example output
     bytes_out: 1000853597433
     run_queue: 0
     context_switches: 39552728218
-    Connections:
+
+    Connections 
+    
+      Count IP Addr     User  Virtual Host
+    
           5 10.0.0.16   foo   bar
          40 10.0.0.16   bar   qux
        2439 10.0.0.81   www   /
